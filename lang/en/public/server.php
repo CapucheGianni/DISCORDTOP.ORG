@@ -16,12 +16,12 @@
 	$VOTE_MSG_2 = "<strong>The attempt is honorable, but the failure is powerful</strong>";
 	$VOTE_MSG_3 = "<strong>Did you forget any neurons when you woke up?</strong> Have a good coffee, it should wake you up!";
 	$VOTE_MSG_4 = "<strong>Thanks for your review !</strong> You have contribuate for level up this server, so thanks you !";
-	$VOTE_MSG_5 = "<strong>Votre participation a bien été enregistrée</strong> Désormais, il suffit d'attendre que l'objectif soit atteint pour le tirage !";
-	$VOTE_MSG_6 = "<strong>Hop hop hop !</strong> Il me semble que tu participe déjà à ce giveaway, petit malin !";
-	$VOTE_MSG_7 = "<strong>Ah non !</strong> Vous n'avez pas suffisament voter pour participer au giveaway !";
-	$REPORT_MSG_1 = "Votre invitation est invalide, pourriez-vous la modifier s'il vous plaît ?";
-	$REPORT_MSG_2 = "Une notification a été envoyer au propriétaire du serveur !";
-	$REPORT_MSG_3 = "Notre équipe à bien reçu le rapport, nous étudirons la situation et nous sanctionnerons si nécessaire.";
+	$VOTE_MSG_5 = "<strong>Your participation has been well registered</strong> Now, you just have to wait that the goal is reached for the draw !"
+	$VOTE_MSG_6 = "<strong>Hep hep hep !</strong> It seems you already participate to this giveaway, smartass !";
+	$VOTE_MSG_7 = "<strong>Oh no !</strong> You don't have vote enough to participate to the giveaway !";
+	$REPORT_MSG_1 = "Your invitation is invalid, could you modify it please ?";
+	$REPORT_MSG_2 = "A notification has been sent to the owner of the server !";
+	$REPORT_MSG_3 = "Our team has weel received the report, we will study the situation and sanction if it is necessary.";
 
 	$WEBHOOK_TITLE = "New vote by";
 	$WEBHOOK_PART_1 = "have voted for";
@@ -31,14 +31,14 @@
 
 	//GIVEAWAY
 
-	$MSG_WINNERS = "Félicitation, vous avez gagner un giveaway, contact le propriétaire du serveur rapidement ! Vous avez gagner : ";
-	$MSG_OWNER_END = "L'un de vos giveaway vient de se terminer, les gagnants devrait vous contactez sous peu, rester attentif !";
+	$MSG_WINNERS = "Congratulations, you have won a giveaway, contact the owner of the server quickly ! You have won : ";
+	$MSG_OWNER_END = "One of your giveaway just ended, the winners should contact you shortly, stay attentive !";
 	$S_CARD_GIVEAWAY_TITLE = "Giveaway";
 	$S_CARD_TABLE_GIFT = "Gift";
 	$S_CARD_TABLE_WINNERS = "Winners";
 	$S_CARD_TABLE_ENDED = "Ended at";
-	$S_CARD_GIVEAWAY_BUTTON_JOIN = "Rejoindre";
-	$S_CARD_GIVEAWAY_BUTTON_ALREADYJOIN = "Participe Déjà";
+	$S_CARD_GIVEAWAY_BUTTON_JOIN = "Join";
+	$S_CARD_GIVEAWAY_BUTTON_ALREADYJOIN = "You are already participating";
 	$S_CARD_GIVEAWAY_BUTTON_CONNECT = "Connect";
 
 	// La partie description

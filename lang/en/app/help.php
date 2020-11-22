@@ -25,9 +25,9 @@
 	$HELP_LIST_3 = "Subject";
 	$HELP_LIST_4 = "Date last action";
 
-	$HELP_LIST_STATUT_1 = "Répondu";
-	$HELP_LIST_STATUT_2 = "Ouvert";
-	$HELP_LIST_STATUT_3 = "Fermé";
+	$HELP_LIST_STATUT_1 = "Answered";
+	$HELP_LIST_STATUT_2 = "Opened";
+	$HELP_LIST_STATUT_3 = "Closed";
 
 	$HELP_LIST_SPAM = "Please no spam, restart unnecessarily. We already have enough work, it will not fail to ban you ...";
 

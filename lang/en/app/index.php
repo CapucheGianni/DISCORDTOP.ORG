@@ -7,14 +7,14 @@
 	$INDEX_CARD_COIN = "coin";
 	$INDEX_CARD_COINS = "coins";
 
-	$INDEX_CARD_AFFILIATE = " affilié";
-	$INDEX_CARD_AFFILIATES = "affiliés";
+	$INDEX_CARD_AFFILIATE = " affiliated";
+	$INDEX_CARD_AFFILIATES = "affiliate(s)";
 
-	$INDEX_CARD_LEVEL = "Ton Niveau";
+	$INDEX_CARD_LEVEL = "Your level";
 
 	// Welcome Card
 
-	$INDEX_WELCOME_TITLE = "Bienvenue sur DiscordTop.Org !";
+	$INDEX_WELCOME_TITLE = "Welcome on DiscordTop.Org !";
 	$INDEX_WELCOMEBACK_TITLE = "Welcome Back,";
 	$INDEX_WELCOME_INFO_1 = "Thanks for trusting us ! You can now see your stats on your profile !";
 	$INDEX_WELCOME_INFO_2 = "Thanks for trusting us ! You can now start using our services by adding your first server !";
@@ -28,7 +28,7 @@
 	$INDEX_STATS_1_TITLE = "The votes of the last 7 days";
 	$INDEX_STATS_2_TITLE = "Votes per month";
 	$INDEX_STATS_HISTORY = "Voting history";
-	$INDEX_STATS_HISTORY_1 = "Serveur";
+	$INDEX_STATS_HISTORY_1 = "Server";
 	$INDEX_STATS_HISTORY_2 = "Date";
 
 ?>
